@@ -9,3 +9,7 @@ Silicon Valley inspired binary classifier to identify hot-dogs and not-hot-dogs.
 ## Results
 
 After generic training and absolutely zero effort in fine tuning, the model achieved a training accuracy of 100%, validation accuracy of 73%, and testing accuracy of 57%. Please contribute for betterment. Pull requests welcome.
+
+## Dataset Link
+
+https://www.kaggle.com/datasets/dansbecker/hot-dog-not-hot-dog
