@@ -15,6 +15,8 @@ After generic training and absolutely zero effort in fine tuning, the model achi
 After using transfer learning with a pre-trained model - ResNet50, the accuracy of the model is increased up to 94% for the training data and 91% for the validation data.
 
 Pull requests welcome.
+
+>>>>>>> 2b52b780ee0ab25f167e70397efcfc9fa15d99eb
 ## Dataset Link
 
 https://www.kaggle.com/datasets/dansbecker/hot-dog-not-hot-dog
