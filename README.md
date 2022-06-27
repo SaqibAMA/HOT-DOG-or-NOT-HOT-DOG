@@ -8,7 +8,13 @@ Silicon Valley inspired binary classifier to identify hot-dogs and not-hot-dogs.
 
 ## Results
 
-After generic training and absolutely zero effort in fine tuning, the model achieved a training accuracy of 100%, validation accuracy of 73%, and testing accuracy of 57%. Please contribute for betterment. Pull requests welcome.
+### Version 1: 
+After generic training and absolutely zero effort in fine tuning, the model achieved a training accuracy of 100%, validation accuracy of 73%, and testing accuracy of 57%. Please contribute for betterment. 
+
+### Version 2:
+After using transfer learning with a pre-trained model - ResNet50, the accuracy of the model is increased up to 94% for the training data and 91% for the validation data.
+
+Pull requests welcome.
 
 ## Dataset Link
 
